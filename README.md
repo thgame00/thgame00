@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-:man: Thomas, 29 years old, from Germany
+:man: Thomas, 30 years old, from Germany
 
 ### Education
-- :mortar_board: M.Sc.: Applied Computer Science (currently studying)
+- :mortar_board: M.Sc.: Applied Computer Science
 - :mortar_board: B.Eng.: Mechatronics / Electrical Engineering 
 
 ### Hobbies / Interests
